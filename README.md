@@ -95,7 +95,8 @@ To install and run SpiderFoot, you need at least Python 3.7 and a number of Pyth
 #### Stable build (packaged release):
 
 ```
-$ wget https://github.com/smicallef/spiderfoot/archive/v3.5.tar.gz
+$ wget https://github.com/SUBUR78990/Spiderfoot/archive/v3.5.tar.gz
+
 $ tar zxvf v3.5.tar.gz
 $ cd spiderfoot-3.5
 $ pip3 install -r requirements.txt
@@ -105,7 +106,7 @@ $ python3 ./sf.py -l 127.0.0.1:5001
 #### Development build (cloning git master branch):
 
 ```
-$ git clone https://github.com/smicallef/spiderfoot.git
+$ git clone https://github.com/SUBUR78990/Spiderfoot.git
 $ cd spiderfoot
 $ pip3 install -r requirements.txt
 $ python3 ./sf.py -l 127.0.0.1:5001
